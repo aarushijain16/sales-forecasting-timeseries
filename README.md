@@ -57,26 +57,26 @@ While the full technical report containong all intricate details and raw outputs
 ## Visualisations:
 
 Below are some key visualisations illustrating the project's data transformations, underlying patterns, and derived insights. These visual aids, detailed in the full report, are crucial for comprehending the analytical process and outcomes:
-* **Figure 1**: Sales in Capital Region Compared to Spend on TV ADs [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/1.png ]
-* **Figure 2**: Sales in Capital Region Compared to Spend on Banners [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/2.png ]
-* **Figure 3**: Sales in Capital Region Compared to Spend on Promotions[ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/3.png ]
-* **Figure 4**: Sales in East Region Compared to Spend on TV ADs [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/4.png ]
-* **Figure 5**: Sales in East Region Compared to Spend on Banners [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/5.png ]
-* **Figure 6**: Sales in East Region Compared to Spend on Promotions[ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/6.png ]
-* **Figure 7**: Sales in West Region Compared to Spend on TV ADs [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/7.png ]
-* **Figure 8**: Sales in West Region Compared to Spend on Banners [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/8.png ]
-* **Figure 9**: Sales in West Region Compared to Spend on Promotions[ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/9.png ]
-* **Figure 10**: Sales in South Region Compared to Spend on TV ADs [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/10.png ]
-* **Figure 11**: Sales in South Region Compared to Spend on Banners [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/11.png ]
-* **Figure 12**: Sales in South Region Compared to Spend on Promotions[ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/12.png ]
-* **Figure 13**: Sales in North Region Compared to Spend on TV ADs [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/13.png ]
-* **Figure 14**: Sales in North Region Compared to Spend on Banners [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/14.png ]
-* **Figure 15**: Sales in North Region Compared to Spend on Promotions[ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/15.png ]
-* **Figure 16**: Linear Regression Model Summary [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/16.png ]
-* **Figure 17**: Linear Regression Diagnostoc Plots [https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/17.png ]
-* **Figure 18**: Overall Sales Trends by Region in Three Years [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/18.png ]
-* **Figure 19**: Sales Units Variation Over Time [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/19.png ]
-* **Figure 20**: Regional Sales Comparison for Three Years - Time Series Plot 1 [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/20.png ]
-* **Figure 21**: Regional Sales Comparison for Three Years - Time Series Plot 2 [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/21.png ]
-* **Figure 22**: Decomposition of Additive Time Series [ https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/22.png ]
+* **Figure 1**: [Sales in Capital Region Compared to Spend on TV ADs](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/1.png)
+* **Figure 2**: [Sales in Capital Region Compared to Spend on Banners](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/2.png)
+* **Figure 3**: [Sales in Capital Region Compared to Spend on Promotions](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/3.png)
+* **Figure 4**: [Sales in East Region Compared to Spend on TV ADs](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/4.png)
+* **Figure 5**: [Sales in East Region Compared to Spend on Banners](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/5.png)
+* **Figure 6**: [Sales in East Region Compared to Spend on Promotions](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/6.png)
+* **Figure 7**: [Sales in West Region Compared to Spend on TV ADs](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/7.png)
+* **Figure 8**: [Sales in West Region Compared to Spend on Banners](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/8.png)
+* **Figure 9**: [Sales in West Region Compared to Spend on Promotions](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/9.png)
+* **Figure 10**: [Sales in South Region Compared to Spend on TV ADs](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/10.png)
+* **Figure 11**: [Sales in South Region Compared to Spend on Banners](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/11.png)
+* **Figure 12**: [Sales in South Region Compared to Spend on Promotions](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/12.png)
+* **Figure 13**: [Sales in North Region Compared to Spend on TV ADs](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/13.png)
+* **Figure 14**: [Sales in North Region Compared to Spend on Banners](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/14.png)
+* **Figure 15**: [Sales in North Region Compared to Spend on Promotions](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/15.png)
+* **Figure 16**: [Linear Regression Model Summary](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/16.png)
+* **Figure 17**: [Linear Regression Diagnostoc Plots](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/17.png)
+* **Figure 18**: [Overall Sales Trends by Region in Three Years](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/18.png)
+* **Figure 19**: [Sales Units Variation Over Time](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/19.png)
+* **Figure 20**: [Regional Sales Comparison for Three Years - Time Series Plot 1](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/20.png)
+* **Figure 21**: [Regional Sales Comparison for Three Years - Time Series Plot 2](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/21.png)
+* **Figure 22**: [Decomposition of Additive Time Series](https://github.com/aarushijain16/sales-forecasting-timeseries/blob/main/22.png)
 
